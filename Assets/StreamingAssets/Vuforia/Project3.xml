@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="edward_hopper" size="10.000000 6.250000" />
+    <ImageTarget name="pollock-number5" size="11.000000 6.470000" />
+    <ImageTarget name="picasso-guernica" size="12.000000 5.337600" />
+    <ImageTarget name="kandinsky-compositionVII" size="10.000000 6.514658" />
+    <ImageTarget name="dali-persistenceOfMemory" size="10.000000 7.597341" />
+    <ImageTarget name="grace-cossington" size="10.000000 7.593750" />
+    <ImageTarget name="We_are_Making_a_New_World_PaulNash" size="10.000000 7.832031" />
+    <ImageTarget name="American_Gothic" size="8.000000 9.615385" />
+    <ImageTarget name="John_Singer_Sargent" size="10.000000 12.858837" />
+    <ImageTarget name="Claude_Monet" size="10.000000 7.977461" />
+    <ImageTarget name="georges_seurat" size="10.000000 6.660736" />
+    <ImageTarget name="van_gogh" size="8.000000 10.144721" />
+  </Tracking>
+</QCARConfig>
