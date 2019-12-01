@@ -1,0 +1,2 @@
+# AR-Art-Gallery
+This Augmented Art gallery is an improvement on the standard "audio tour" by bringing the art pieces to life with 3D text with multiple slides of information about the art piece, artist, and more. It also shows pictures of other works by the artist and a video of someone explaining the art piece or artist. On each text slide there is a 3D model with animations that you can activate by clicking the audio button, which gestures and reads the slide.
